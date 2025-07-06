@@ -9,6 +9,6 @@
 ### ⚙️ Features provided by this application: 
 #### Live monitoring of temperature, soil moisture, and water level. Addition of charts as a form of history of the data taken. Real-time plant status such as Good, Caution, or Bad (color-coded).
 ### 💡 How It Works
-#### Arduino/ESP32 collects data from plant sensors. Sends data to Firebase every second (customizable). Flutter app retrieves and displays live sensor data on your phone.
+#### Arduino/ESP32 collects data from plant sensors. Sends data to Firebase every second (customizable). Flutter app retrieves and displays live sensor data on your phone. You can go to My Friend (Gleen Ryan) GitHub for more details [Gleen Ryan's GitHub](https://github.com/Gleenryan).
 ### 📲 Getting Started
-#### Flash the Arduino code (see /arduino folder). Set up Firebase and add your credentials. Run the Flutter app (flutter run) and connect your device.
+#### Flash the Arduino code (see /arduino folder). Set up Firebase and add your credentials. Run the Flutter app (flutter run) and connect your device. You can go to My Friend (Gleen Ryan) GitHub for more details [Gleen Ryan's GitHub](https://github.com/Gleenryan).
