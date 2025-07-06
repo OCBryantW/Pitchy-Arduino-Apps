@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341341646861",
+    "firebase_url": "https://pitchy-4c459-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pitchy-4c459",
+    "storage_bucket": "pitchy-4c459.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341341646861:android:10e2d73a9996b44bf0e544",
+        "android_client_info": {
+          "package_name": "com.example.pitchy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA14b1zBftwCaM662pBJDKIazV6cEUytKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

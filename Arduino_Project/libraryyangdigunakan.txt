@@ -1,0 +1,7 @@
+-FirebaseESP32
+-esp32DevModule
+-Wire
+-LiquidCrystal_I2C
+-WiFi (ESP32)
+=DHT
+=Ticker
